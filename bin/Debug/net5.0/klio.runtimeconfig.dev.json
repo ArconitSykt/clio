@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\flopy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\flopy\\.nuget\\packages"
+    ]
+  }
+}

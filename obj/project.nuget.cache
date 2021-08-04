@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "04ACzMtjBfQcPp8eBRp1EC9CuNnTNOi1+iGOumF83jS0A2gA20xDHN0AJHrSuNBF0NlqnmS8Wpe4C6Awm0HcIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\klio\\klio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flopy\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}
