@@ -25,3 +25,7 @@ cd .\klio
 ```bash
 dotnet add package HtmlAgilityPack --version 1.11.34
 ```
+7. Запуск
+```bash
+dotnet run
+```
