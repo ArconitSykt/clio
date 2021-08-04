@@ -19,7 +19,7 @@ dotnet new console -o klio
 cd .\klio
 ```
 
-4. Код [a relative link](Program.cs)
+4. Код [a Листинг](Program.cs)
 6. Установка пакета парсера
 
 ```bash
